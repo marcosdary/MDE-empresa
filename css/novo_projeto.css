@@ -1,0 +1,32 @@
+.form-group {
+    margin-bottom: 1.3rem; /* Ajusta a margem inferior conforme necessário */
+}
+
+#form-container {
+    margin-top: 50px; /* Ajuste o valor conforme necessário */
+}
+
+/* Estilo para a div */
+#link-container {
+    text-align: center; /* Centraliza o texto */
+    margin-top: 20px; /* Espaço acima da div */
+    margin-bottom: 20px; /* Espaço abaixo da div */
+}
+
+/* Estilo para o link */
+.link-back {
+    color: #007bff; /* Cor do texto do link */
+    text-decoration: none; /* Remove o sublinhado */
+    font-size: 1.0rem; /* Tamanho da fonte */
+    font-weight: 400; /* Peso da fonte */
+    padding: 10px; /* Espaço interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    transition: background-color 0.3s, color 0.3s; /* Transição suave para efeitos */
+}
+
+/* Estilo para o link quando o mouse está sobre ele */
+.link-back:hover {
+    color: #ffffff; /* Cor do texto quando o mouse passa sobre o link */
+    background-color: #007bff; /* Cor de fundo quando o mouse passa sobre o link */
+    text-decoration: none; /* Remove o sublinhado quando o mouse passa sobre o link */
+}

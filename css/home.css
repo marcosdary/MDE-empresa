@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Aumentar a altura do navbar e o padding */
+.navbar {
+    padding: 1rem 2rem; /* Ajuste o padding conforme necessário */
+    font-size: 1.25rem; /* Aumenta o tamanho da fonte no navbar */
+}
+
+/* Aumentar o tamanho da fonte dos links */
+.navbar-nav .nav-link {
+    font-size: 1.25rem; /* Ajuste o tamanho da fonte dos links */
+    padding: 0.75rem 1.5rem; /* Ajuste o padding dos links */
+}
+
+/* Ajustar o tamanho da fonte da navbar-brand */
+.navbar-brand {
+    font-size: 1.2rem; /* Ajusta o tamanho da fonte da marca do navbar */
+}
+
+/* Ajustar a altura do botão do navbar */
+.navbar-toggler {
+    padding: 0.75rem 1.5rem; /* Ajuste o padding do botão do navbar */
+    font-size: 1.25rem; /* Ajuste o tamanho da fonte do botão do navbar */
+}
+
+/* Exemplo de estilização do link ativo */
+.nav-item.active .nav-link {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.navbar .btn {
+    margin-left: auto;
+    margin-right: 0;
+}

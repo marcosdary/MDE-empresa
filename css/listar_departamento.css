@@ -1,0 +1,17 @@
+.custom-table {
+    width: 520%; /* Ajuste o valor conforme necessário */
+    max-width: 100%; /* Garante que a tabela não exceda a largura do contêiner */
+}
+
+.custom-table th, .custom-table td {
+    font-size: 1.1rem; /* Ajuste o tamanho da fonte conforme necessário */
+    padding: 1rem; /* Ajuste o padding para aumentar o tamanho das células */
+}
+
+.full-width-table {
+    width: 100%; /* Garante que a tabela use 100% da largura disponível */
+}
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
